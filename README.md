@@ -1,2 +1,2 @@
-# Kinesys-RenPy-Practice
+# Nephael-RenPy-Practice
 RenPy로 게임 제작
